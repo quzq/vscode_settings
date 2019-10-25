@@ -1,0 +1,35 @@
+{
+  "glassit.alpha": 215,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+  "vim.easymotion": true,
+  "vim.sneak": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.cursorStylePerMode.insert": "line-thin",
+  "vim.cursorStylePerMode.normal": "underline",
+  "vim.cursorStylePerMode.visual": "block",
+  "vim.cursorStylePerMode.replace": "block-outline",
+  "vim.cursorStylePerMode.visualblock": "block",
+  "vim.cursorStylePerMode.visualline": "block",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#A80000",
+    "titleBar.inactiveBackground": "#220000"
+  },
+  "window.zoomLevel": -1,
+  "files.eol": "\n",
+  "vsnotes.defaultNotePath": "c:\\Users\\YAMAGUCHI\\.vscode\\notes",
+  "workbench.startupEditor": "newUntitledFile",
+  "window.menuBarVisibility": "default",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "remote.extensionKind": {
+    "msjsdiag.debugger-for-chrome": "workspace"
+  }
+}
