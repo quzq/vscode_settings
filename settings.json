@@ -1,6 +1,5 @@
 {
-  "glassit.alpha": 215,
-  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "vim.easymotion": true,
   "vim.sneak": true,
   "vim.incsearch": true,
@@ -25,11 +24,12 @@
   },
   "window.zoomLevel": -1,
   "files.eol": "\n",
-  "vsnotes.defaultNotePath": "c:\\Users\\YAMAGUCHI\\.vscode\\notes",
   "workbench.startupEditor": "newUntitledFile",
   "window.menuBarVisibility": "default",
   "workbench.colorTheme": "Visual Studio Dark",
   "remote.extensionKind": {
     "msjsdiag.debugger-for-chrome": "workspace"
-  }
+  },
+  "glassit.alpha": 210,
+  "terminal.integrated.shell.linux": "/bin/bash"
 }
